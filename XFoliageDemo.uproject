@@ -13,7 +13,8 @@
 	"Plugins": [
 		{
 			"Name": "XFoliage",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/cc1f9155b0964f15a5579483b7e67577"
 		}
 	]
 }
