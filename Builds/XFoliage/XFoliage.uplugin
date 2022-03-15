@@ -1,0 +1,32 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "XFoliage",
+	"Description": "Add interactable foliage system to your project!",
+	"Category": "Other",
+	"CreatedBy": "dexied",
+	"CreatedByURL": "https://discord.gg/mqV52Qf",
+	"DocsURL": "https://github.com/Dexied/XFoliageDemo/wiki",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/cc1f9155b0964f15a5579483b7e67577",
+	"SupportURL": "https://discord.gg/mqV52Qf",
+	"EngineVersion": "4.27.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "XFoliage",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"WhitelistPlatforms": [
+				"Win64"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Niagara",
+			"Enabled": true
+		}
+	]
+}
