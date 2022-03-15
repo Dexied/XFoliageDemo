@@ -1,1 +1,0 @@
-B:\UnrealEngine\UE_4.27\Engine\Build\BatchFiles\RunUAT.bat BuildPlugin -Plugin="B:\Projects\XFoliageDemo\Plugins\XFoliage\XFoliage.uplugin" -Package="B:\Projects\XFoliageDemo\Builds\XFoliage" -Rocket -2019
