@@ -8,7 +8,7 @@ public class XFoliageDemoEditorTarget : TargetRules
 	public XFoliageDemoEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V2;
+		DefaultBuildSettings = BuildSettingsVersion.V4;
 
 		ExtraModuleNames.AddRange( new string[] { "XFoliageDemo" } );
 	}
